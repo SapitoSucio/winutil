@@ -55,6 +55,13 @@
 		"link": "https://www.anaconda.com/products/distribution",
 		"winget": "Anaconda.Anaconda3"
 	},
+	"WPFInstallanaconda3": {
+		"category": "Development",
+		"choco": "mariadb.install",
+		"content": "MariaDB",
+		"description": "MariaDB is a SQL framework",
+		"link": "https://mariadb.org/",
+	},
 	"WPFInstallangryipscanner": {
 		"category": "Pro Tools",
 		"choco": "angryip",
