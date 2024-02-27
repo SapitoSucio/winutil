@@ -55,7 +55,7 @@
 		"link": "https://www.anaconda.com/products/distribution",
 		"winget": "Anaconda.Anaconda3"
 	},
-	"WPFInstallanaconda3": {
+	"WPFInstallmariadb": {
 		"category": "Development",
 		"choco": "mariadb.install",
 		"content": "MariaDB",
