@@ -61,6 +61,7 @@
 		"content": "MariaDB",
 		"description": "MariaDB is a SQL framework",
 		"link": "https://mariadb.org/",
+		"winget": "MariaDB.Server"
 	},
 	"WPFInstallangryipscanner": {
 		"category": "Pro Tools",
